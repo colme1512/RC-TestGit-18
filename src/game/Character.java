@@ -12,7 +12,7 @@ public abstract class Character {
 		}
 		public void setWeapon(WeaponBehaviour w){
 			System.out.println("Let´s change our weapons ...");
-						System.out.println("LCambios en Character");
+			System.out.println("Let´s test timing loggin in YouTrack");
 		weapon = w;
 		}
 		public void fight(){ 
