@@ -13,7 +13,6 @@ public class Sword implements WeaponBehaviour {
 	public void useWeapon() {
 		// TODO Auto-generated method stub
 		System.out.println("You slash madly with your sword.");
-		System.out.println("Working on testing brachs.");
 	}
 }
 
